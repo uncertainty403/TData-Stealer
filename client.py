@@ -1,7 +1,6 @@
 import os
 import zipfile
 import tempfile
-import requests
 
 SERVER_URL = "http://localhost:8080//upload"
 MAX_SIZE = 50 * 1024 * 1024
